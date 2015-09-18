@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [API_Testing]">
+  <test name="Disputes Webservices Testing(failed)">
+    <classes>
+      <class name="com.prokarma.main.DriverScript">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="test" invocation-numbers="3"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.prokarma.main.DriverScript -->
+    </classes>
+  </test> <!-- Disputes Webservices Testing(failed) -->
+</suite> <!-- Failed suite [API_Testing] -->

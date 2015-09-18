@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="API_Testing">
+	<test name="Disputes Webservices Testing">
+		<classes>
+			<class name="com.prokarma.main.DriverScript" />			
+		</classes>
+	</test>
+</suite>
